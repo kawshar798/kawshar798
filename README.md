@@ -7,5 +7,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
-
+* 🔭 I’m currently working on : php,laravel,javascript,react
+* 🌱 I’m currently learning: MERN Stack Development
+* 📫 How to reach me: (http://kawsharahmed.pro/)
 <br/>

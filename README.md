@@ -8,7 +8,7 @@
 </a>
 <br/>
 <br/>
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawshar798&theme=dark&show_icons=true)
 
 <a href="https://github.com/kawshar798">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kawshar798&layout=compact&theme=radical" />

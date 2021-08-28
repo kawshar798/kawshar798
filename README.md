@@ -8,7 +8,7 @@
 </a>
 <br/>
 <br/>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kawshar798) 
+[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kawshar798) 
 
 <a href="https://github.com/kawshar798">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kawshar798&layout=compact&theme=radical" />
